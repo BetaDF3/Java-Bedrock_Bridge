@@ -6,7 +6,7 @@ A Fabric-based Minecraft server with cross-play support via Geyser, so both **Ja
 - **Loader:** Fabric
 - **Java Port:** `25565`
 - **Bedrock Port:** `19132` (UDP)
-- **Server Address:** `192.168.1.166`
+- **Server Address:** `96.233.42.228`
 
 ---
 
@@ -31,7 +31,7 @@ Java players need the client-side mod pack to match the server's mods.
 2. Go to **Multiplayer** → **Add Server**.
 3. Enter:
    - **Server Name:** anything you like
-   - **Server Address:** `192.168.1.166:25565`
+   - **Server Address:** `96.233.42.228:25565`
 4. Click **Done**, then double-click the server to connect.
 
 ---
@@ -44,7 +44,7 @@ No mods needed — just connect directly. This works out of the box on **iOS, An
 2. Go to **Play** → **Servers** tab → **Add Server**.
 3. Enter:
    - **Server Name:** anything you like
-   - **Server Address:** `192.168.1.166`
+   - **Server Address:** `96.233.42.228`
    - **Port:** `19132`
 4. Save, then tap the server to connect.
 
@@ -66,13 +66,11 @@ Consoles don't have an "Add Server" option built in — Mojang only exposes thei
 2. Save and reconnect to your network.
 3. Open Minecraft, go to the **Servers** tab, and join one of these **redirect-compatible** Featured Servers: **Mineville, Lifeboat, Enchanted, Galaxite,** or **The Hive**. Instead of connecting normally, it'll open the BedrockConnect menu.
 4. In BedrockConnect, choose **Add Server** and enter:
-   - **Server Address:** `192.168.1.166`
+   - **Server Address:** `96.233.42.228`
    - **Port:** `19132`
 5. Save and connect from the BedrockConnect list.
 
 > Full setup guides and troubleshooting (including PS4/PS5 step-by-step DNS instructions) are on the [BedrockConnect GitHub page](https://github.com/Pugmatt/BedrockConnect).
-
-> **Note:** `192.168.1.166` is a local network address, so this will only work while your console is on the same home network as the server. If you need to join from outside the house, ask the server admin whether port forwarding + a public address is set up.
 
 ---
 
