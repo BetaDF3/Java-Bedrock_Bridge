@@ -81,7 +81,6 @@ Consoles don't have an "Add Server" option built in — Mojang only exposes thei
 | Java client won't connect | Double-check you're on Fabric + Java 25, and your mod pack matches the server version |
 | Bedrock client won't connect | Make sure you used port `19132`, not `25565` |
 | "Outdated server/client" | The server and your mods may be on different Minecraft versions — re-download the mod pack |
-| Can connect on LAN but not remotely | The server admin needs to confirm port forwarding is set up correctly |
 
 ---
 
