@@ -14,7 +14,7 @@ A Fabric-based Minecraft server with cross-play support via Geyser, so both **Ja
 
 Java players need the client-side mod pack to match the server's mods.
 
-**[⬇️ Download the mod pack (.zip)](PASTE_YOUR_DOWNLOAD_LINK_HERE)**
+**[⬇️ Download the mod pack (.zip)](https://github.com/BetaDF3/Java-Bedrock_Bridge/releases/download/Release/bedrock.bridge.zip)**
 
 ### Installing the mod pack
 
