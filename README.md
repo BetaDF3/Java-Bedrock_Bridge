@@ -10,7 +10,7 @@
 - IP: `96.233.42.228`
 - Port: `19132`
 
-Theres a optional modpack for bedrockbridge, which can be found in releases. Modpack is Java only.
+Theres a optional modpack for bedrockbridge, which can be found in [releases](../../releases). Modpack is Java only.
 
 ## javamod (NeoForge — Java only)
 
